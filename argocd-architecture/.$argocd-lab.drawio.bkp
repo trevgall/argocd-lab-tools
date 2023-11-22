@@ -1,0 +1,34 @@
+<mxfile host="Electron" modified="2023-11-22T13:38:17.471Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.1.2 Chrome/114.0.5735.289 Electron/25.9.4 Safari/537.36" etag="PIY7-HI8977NIea1O8wf" version="22.1.2" type="device">
+  <diagram name="Page-1" id="VxV0RPZbpmmn0MBL4h4J">
+    <mxGraphModel dx="1434" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="zNrfemKoxbyKpsAUa707-1" value="MiniKube" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="zNrfemKoxbyKpsAUa707-2" value="ArgoCD" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="zNrfemKoxbyKpsAUa707-3" value="argocd-example-apps" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="450" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zNrfemKoxbyKpsAUa707-4" value="argocd-lab-apps" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="520" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zNrfemKoxbyKpsAUa707-5" value="argocd-lab-deploy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="590" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zNrfemKoxbyKpsAUa707-6" value="argocd-lab-tools" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="590" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zNrfemKoxbyKpsAUa707-7" value="argocd-manual-deploy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="520" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zNrfemKoxbyKpsAUa707-8" value="google-microservices-demo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="720" width="150" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
